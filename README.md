@@ -10,3 +10,4 @@ https://github.com/rabbitwhoi/Python/tree/main/LB6
 https://github.com/rabbitwhoi/Python/tree/main/LB7
 
 Лабораторная работа №8. Применение функций.
+https://github.com/rabbitwhoi/Python/tree/main/LB8
