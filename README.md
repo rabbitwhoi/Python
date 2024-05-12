@@ -15,3 +15,6 @@ https://github.com/rabbitwhoi/Python/tree/main/LB8
 Лабораторная работа №8.1 - Прототип запроса к базе данных.  
 https://github.com/rabbitwhoi/Python/tree/main/LB8.1
 
+Лабораторная работа №8.1 - Строки и форматирование  
+https://github.com/rabbitwhoi/Python/tree/main/LB8.2
+
