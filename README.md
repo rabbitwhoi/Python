@@ -12,6 +12,6 @@ https://github.com/rabbitwhoi/Python/tree/main/LB7
 Лабораторная работа №8. - Применение функций.  
 https://github.com/rabbitwhoi/Python/tree/main/LB8
 
-ЛР8.1 Прототип запроса к базе данных.
+ЛР8.1 Прототип запроса к базе данных.  
 https://github.com/rabbitwhoi/Python/tree/main/LB8.1
 
