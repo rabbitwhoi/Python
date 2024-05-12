@@ -13,4 +13,5 @@ https://github.com/rabbitwhoi/Python/tree/main/LB7
 https://github.com/rabbitwhoi/Python/tree/main/LB8
 
 ЛР8.1 Прототип запроса к базе данных
+https://github.com/rabbitwhoi/Python/tree/main/LB8.1
 
