@@ -20,3 +20,6 @@ https://github.com/rabbitwhoi/Python/tree/main/LB8.2
 
 Лабораторная работа №8.3 - f строки  
 https://github.com/rabbitwhoi/Python/tree/main/LB8.3
+
+Лабораторная работа №8.4 - Библиотеки 
+https://github.com/rabbitwhoi/Python/tree/main/LB8.4
