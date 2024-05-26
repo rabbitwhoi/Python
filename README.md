@@ -24,5 +24,5 @@ https://github.com/rabbitwhoi/Python/tree/main/LB8.3
 Лабораторная работа №8.4 - Библиотеки  
 https://github.com/rabbitwhoi/Python/tree/main/LB8.4
 
-Лабораторная работа №8.5 - Протокол HTTP
+Лабораторная работа №8.5 - Протокол HTTP  
 https://github.com/rabbitwhoi/Python/tree/main/LB8.5
