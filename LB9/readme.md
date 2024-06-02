@@ -158,6 +158,16 @@ response = requests.delete(url)
 
 Реализуйте функцию которая будет удалить информацию о студенте по id студента переданному в качестве параметра функции. Функция должна возвращать ответ от сервера.  
 
+## Задача №5. Захват HTTP трафика
+
+Get
+![image](https://github.com/rabbitwhoi/Python/assets/151567849/772c0a5d-2ef5-4bba-ac77-29bc9c3a6b06)
+Post
+![image](https://github.com/rabbitwhoi/Python/assets/151567849/bf855796-29ad-4da2-9b84-adaa8f54e571)
+Put
+![image](https://github.com/rabbitwhoi/Python/assets/151567849/a86f36df-5f95-4f1f-8d36-70438193d6af)
+Delete
+![image](https://github.com/rabbitwhoi/Python/assets/151567849/28527d67-ab31-4428-9058-d013efd3c9ad)
 
 
 
