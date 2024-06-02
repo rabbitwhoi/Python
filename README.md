@@ -26,3 +26,6 @@ https://github.com/rabbitwhoi/Python/tree/main/LB8.4
 
 Лабораторная работа №8.5 - Протокол HTTP  
 https://github.com/rabbitwhoi/Python/tree/main/LB8.5
+
+Лабораторная работа №8.6. Python вместо браузера  
+https://github.com/rabbitwhoi/Python/tree/main/LB8.6
